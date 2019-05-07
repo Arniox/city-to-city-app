@@ -1,0 +1,23 @@
+{
+	"name": "NewRouteIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "cityOne",
+					"value": "$cityOne",
+					"dataType": "@sys.geo-city"
+				},
+				{
+					"isList": false,
+					"name": "cityTwo",
+					"value": "$cityTwo",
+					"dataType": "@sys.geo-city"
+				}
+			]
+		}
+	]
+}

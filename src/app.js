@@ -26,15 +26,15 @@ app.use(
 
 app.setHandler({
     LAUNCH() {
-        return this.toIntent('HelloWorldIntent');
+        return this.toIntent('HelloMapsIntent');
     },
 
-    HelloWorldIntent() {
-        this.ask('Hello World! What\'s your name?', 'Please tell me your name.');
+    HelloMapsIntent() {
+        this.ask('Hello from Maps! What 2 citites do you want to create a route for?', 'Please say two cities now!');
     },
 
-    MyNameIsIntent() {
-        this.tell('Hey ' + this.$inputs.name.value + ', nice to meet you!');
+    NewRouteIntent() {
+        this.tell('Here is your route from ' + this.$inputs.cityOne.value + ' to ' + this.$inputs.cityTwo.value + ' have a safe travel');
     },
 });
 

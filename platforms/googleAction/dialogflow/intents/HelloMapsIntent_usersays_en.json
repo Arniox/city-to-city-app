@@ -22,7 +22,27 @@
 	{
 		"data": [
 			{
-				"text": "say hello world",
+				"text": "say hello maps",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "maps",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "open maps",
 				"userDefined": false
 			}
 		],

@@ -1,0 +1,306 @@
+[
+	{
+		"data": [
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "I want to go from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Go from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "Please take me from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "take me ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "location from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "distance from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "find ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "find ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "You can take me from ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " to ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	},
+	{
+		"data": [
+			{
+				"text": "You can take me ",
+				"userDefined": false
+			},
+			{
+				"text": "cityOne",
+				"userDefined": true,
+				"alias": "cityOne",
+				"meta": "@sys.geo-city"
+			},
+			{
+				"text": " and ",
+				"userDefined": false
+			},
+			{
+				"text": "cityTwo",
+				"userDefined": true,
+				"alias": "cityTwo",
+				"meta": "@sys.geo-city"
+			}
+		],
+		"isTemplate": false,
+		"count": 0
+	}
+]

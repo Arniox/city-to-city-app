@@ -5,25 +5,39 @@
 			"types": [],
 			"intents": [
 				{
-					"name": "HelloWorldIntent",
+					"name": "HelloMapsIntent",
 					"samples": [
 						"hello",
 						"say hello",
-						"say hello world"
+						"say hello maps",
+						"maps",
+						"open maps"
 					]
 				},
 				{
-					"name": "MyNameIsIntent",
+					"name": "NewRouteIntent",
 					"samples": [
-						"{name}",
-						"my name is {name}",
-						"i am {name}",
-						"you can call me {name}"
+						"{cityOne} and {cityTwo}",
+						"{cityOne} {cityTwo}",
+						"I want to go from {cityOne} to {cityTwo}",
+						"Go from {cityOne} to {cityTwo}",
+						"Please take me from {cityOne} to {cityTwo}",
+						"take me {cityOne} to {cityTwo}",
+						"location from {cityOne} {cityTwo}",
+						"distance from {cityOne} to {cityTwo}",
+						"find {cityOne} to {cityTwo}",
+						"find {cityOne} and {cityTwo}",
+						"You can take me from {cityOne} to {cityTwo}",
+						"You can take me {cityOne} and {cityTwo}"
 					],
 					"slots": [
 						{
-							"name": "name",
-							"type": "AMAZON.US_FIRST_NAME"
+							"name": "cityOne",
+							"type": "AMAZON.US_CITY"
+						},
+						{
+							"name": "cityTwo",
+							"type": "AMAZON.US_CITY"
 						}
 					]
 				},
